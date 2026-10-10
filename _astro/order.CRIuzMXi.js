@@ -1,0 +1,1 @@
+var e=`santlada:order`;function t(t){window.dispatchEvent(new CustomEvent(e,{detail:{canvas:t}}))}var n=`santlada:canvas`;function r(e){window.dispatchEvent(new CustomEvent(n,{detail:{canvas:e}}))}export{r as i,e as n,t as r,n as t};
